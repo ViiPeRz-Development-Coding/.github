@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="612" height="240" src="https://i.imgur.com/ceynhuE.png">
+  <img width="512" height="512" src="https://i.imgur.com/ceynhuE.png">
 </p>
